@@ -1,0 +1,67 @@
+#NetFlix GPT
+
+- Create react-app
+- Configured TailwindCSS
+- routing app
+- Header
+- Login Form
+- Form validation
+- Sign up Form
+- useRef hook
+- Firebase Setup
+- Create SignUp user Account
+- Implement Sign In user API
+- created Redux store with userSlice
+- Implemented Signout
+- Update Profile
+- Fetch From TMDB movies
+- Bug Fix: Sign up user displayName
+- Bug Fix: if the user is not logged in Redirect /browse to Login Page and vice-versa
+- unSubscribed to the onAuthStateChanged callback
+- Add HardCoded values to the constants file. 
+- Register TMDB API and create an app and get access token
+- Get data form TMDB now playing movies list API
+- Custom hook for Now Playing Movies
+- Create movieSlice
+- Update Store with movies data
+- Planning for MainContainer & SecondaryContainer
+- Fetch Data for Trailer video
+- Update store with trailer video data
+- Embedded the Youtube video and make it autoplay and mute
+- Tailwind classes to make Main Container look awesome
+- Build Secondary Component
+- Build Movie List
+- Build Movie Card
+- TMDB image CDN url
+- Made the browse amazing with Tailwind css
+- usePopular Movies Custom hook
+- useTopRated Custom hook
+- useUpcoming Custom hook
+- use Custom hooks for series also
+- GPT Search Page
+- GPT Search Bar
+- (Bonus) multi Language feature in our app
+- Groq Search Feature
+- Get Groq API key
+- Groq Search API call
+- fetched gptMoviesSuggestions from TMDB
+- created gptSlice added data
+- Reused Movie List Component to make movie suggestions container
+- Made our site responsive at the end
+
+#Features 
+    -Login/Signup
+    -Sign In /Signup Form
+    -redirect to browse page
+-Browse(after authentication)
+        -Header
+        -Main Movie
+            -Trailer in BackGround
+            -Title & description
+            -Movie Suggestions 
+                -MovieList * N
+-NetFlixGPT
+    -searchBar
+    -Movie Suggestions
+
+
